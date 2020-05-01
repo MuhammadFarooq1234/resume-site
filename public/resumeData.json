@@ -115,6 +115,10 @@
         "level":"50%"
       },
       {
+        "name":"Nginx",
+        "level":"30%"
+      },
+      {
         "name":"Elastic Search",
         "level":"40%"
       },
@@ -142,13 +146,28 @@
         "title":"TweetShow",
         "category":"An in-depth twitter sentiment, emotion, and difficulty analysis tool",
         "image":"tweetshow.jpg",
-        "url":"https://tweetshow.me"
+        "url":"https://tweetshow.me",
+        "techstack": [
+          "ReactJS",
+          "NodeJS",
+          "Redis",
+          "DigitalOcean",
+          "Nginx",
+          "Twitter API",
+          "Twin Word API"
+        ]
       },
       {
         "title":"PlanitApp",
         "category":"An app created for my Software Engineering course, not my original idea. Allows users to plan trips using their location, budget, and personal preferances.",
         "image":"planit.png",
-        "url":"https://github.com/MuhammadFarooq1234/planit-app"
+        "url":"https://github.com/MuhammadFarooq1234/planit-app",
+        "techstack": [
+          "React Native",
+          "NodeJS",
+          "Firebase",
+          "Yelp API"
+        ]
       }
     ]
   },

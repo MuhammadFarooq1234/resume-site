@@ -6,6 +6,8 @@ class Portfolio extends Component {
     if(this.props.data){
       var projects = this.props.data.projects.map(function(projects){
         var projectImage = 'images/portfolio/'+projects.image;
+        var projectStack = projects.techstack;
+        var listOfTech = projectStack.map((p) => <li key={p}>{p}</li>)
         return <div key={projects.title} className="columns portfolio-item">
            <div className="item-wrap">
             <a href={projects.url} title={projects.title}>
@@ -15,10 +17,12 @@ class Portfolio extends Component {
                  <h5>{projects.title}</h5>
                      <p>{projects.category}</p>
                   </div>
-                </div>
+              </div>
               <div className="link-icon"><i className="fa fa-link"></i></div>
             </a>
           </div>
+          <h4>Technologies Used:</h4>
+          <ul>{listOfTech}</ul>
         </div>
       })
     }
