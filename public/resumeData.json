@@ -1,0 +1,167 @@
+{
+  "main": {
+    "name":"Muhammad Farooq",
+    "occupation":"Student at University of Toronto @ Scarborough",
+    "description":"I hope to use my skills and experience to build reliable and robust software for the betterment of mankind",
+    "image":"profilepic.jpg",
+    "bio":"I am a 4th year student studying Computer Science at the University of Toronto. Most recently, I have worked as both a DevOps engineer and Applications Developer through internships and am currently finishing my final semester of university with the aim to graduate in summer 2020. In this final semester, I am working on several different projects to further hone my skills.",
+    "contactmessage":"Please feel free to reach out to me by email, call, or text.",
+    "email": "farooq.muhammad41@yahoo.com",
+    "phone": "6474475934",
+    "address":{
+      "street":"32 Myrna Lane",
+      "city":"Toronto",
+      "state":"Ontario",
+      "zip": "M1V3N7"
+    },
+    "website": "TBD",
+    "resumedownload":"TBD",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/profile.php?id=608380315",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/MuhammadFarooq1234",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I am proud to say I have built a plethora of skills throughout my internships, my education and through my own personal learning,",
+    "education":[
+      {
+        "school":"University of Toronto",
+        "degree":"Honours Bachelor of Computer Science",
+        "graduated":"August 2020"
+      }
+    ],
+    "work":[
+      {
+        "company":"Oracle Corporation",
+        "title":"DevOps Intern",
+        "years":"September 2018 - August 2019",
+        "description": [
+          "Improved Developer/QA self sufficiency through development of web app (Ruby, Java, Angular) to provide team with access to automation for day-to-day functions",
+          "Increased Developer/QA productivity through development of DevOps Slack Bot (Nodejs) by building a CLI for automation of various tasks",
+          "Reduced failures and increased visibility in TeamCity CI pipeline through implementation of logging solution using the ELK stack",
+          "Maintained uptime of QA environments through creation, monitoring, and maintenance of web, database, and service servers using Chef and Sensu"
+        ]
+      },
+      {
+        "company":"Workplace Safety and Insurance Board",
+        "title":"Applications Development and Services",
+        "years":"January 2018 - April 2018",
+        "description": [
+          "Designed a full Proof-of-Concept for integrating the SonarQube tool for code quality analysis into existing deployment pipeline",
+          "Developed a Java Application which automated the creation of dashboards illustrating the code quality of the engineering team",
+          "Presented key code quality metrics to directors and managers, convincing the team to invest in a code analysis tool"
+        ]
+    }],
+    "skills":[
+      {
+        "name":"JavaScript",
+        "level":"70%"
+      },
+      {
+        "name":"ReactJS",
+        "level":"50%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"60%"
+      },
+      {
+        "name":"HTML5",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"60%"
+      },
+      {
+        "name":"Python",
+        "level":"60%"
+      },
+      {
+        "name":"Java",
+        "level":"50%"
+      },
+      {
+        "name":"Ruby",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"40%"
+      },
+      {
+        "name":"MySQL",
+        "level":"40%"
+      },
+      {
+        "name":"Redis",
+        "level":"30%"
+      },
+      {
+        "name":"Docker",
+        "level":"50%"
+      },
+      {
+        "name":"Elastic Search",
+        "level":"40%"
+      },
+      {
+        "name":"Kibana",
+        "level":"40%"
+      },
+      {
+        "name":"TeamCity",
+        "level":"60%"
+      },
+      {
+        "name":"Sensu",
+        "level":"40%"
+      },
+      {
+        "name":"Chef",
+        "level":"20%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"TweetShow",
+        "category":"An in-depth twitter sentiment, emotion, and difficulty analysis tool",
+        "image":"tweetshow.png",
+        "url":"https://tweetshow.me"
+      },
+      {
+        "title":"PlanitApp",
+        "category":"An app created for my Software Engineering course, not my original idea. Allows users to plan trips using their location, budget, and personal preferances.",
+        "image":"planit.png",
+        "url":"https://github.com/MuhammadFarooq1234/planit-app"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
