@@ -19,6 +19,7 @@ class Footer extends Component {
            </ul>
 
            <ul className="copyright">
+              <li>This site was created using the <a href="https://github.com/tbakerx/react-resume-template">template</a> provided by Tim Baker</li>
               <li>&copy; Copyright 2017 Tim Baker</li>
               <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>
            </ul>
