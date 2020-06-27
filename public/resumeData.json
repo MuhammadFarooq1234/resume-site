@@ -168,6 +168,15 @@
           "Firebase",
           "Yelp API"
         ]
+      },
+      {
+        "title":"Simple Cricket Score Tracker",
+        "category":"Built and deployed a mobile application on the Google Play Store which allows users to keep track of cricket scores including runs, wickets, overs, No Balls, Wide Balls, etc.",
+        "image":"SCST.png",
+        "url":"https://play.google.com/store/apps/details?id=com.farooqmuhammad.simplecricketscoretracker&fbclid=IwAR1MMXZX3kaNGUCkjphQn9Re9BCEulvSfcgBVuAmzg5YHKA8VeJyl1-renohttps://play.google.com/store/apps/details?id=com.farooqmuhammad.simplecricketscoretracker&fbclid=IwAR1MMXZX3kaNGUCkjphQn9Re9BCEulvSfcgBVuAmzg5YHKA8VeJyl1-reno",
+        "techstack": [
+          "React"
+        ]
       }
     ]
   },
