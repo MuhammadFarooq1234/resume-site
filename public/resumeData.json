@@ -2,9 +2,9 @@
   "main": {
     "name":"Muhammad Farooq",
     "occupation":"Student at University of Toronto @ Scarborough",
-    "description":"I hope to use my skills and experience to build reliable and robust software for the betterment of mankind",
+    "description":"Fresh out of university with a a quality blend of academic achievement, industry experience, and side projects. Seeking out challenging, exciting, and impactful roles in the software industry where I can fully apply my abilities. ",
     "image":"profilepic.jpg",
-    "bio":"I am a 4th year student studying Computer Science at the University of Toronto. Most recently, I have worked as both a DevOps engineer and Applications Developer through internships and am currently finishing my final semester of university with the aim to graduate in summer 2020. In this final semester, I am working on several different projects to further hone my skills.",
+    "bio":"I am a recent graduate with a degree in Computer Science at the University of Toronto. Most recently, I have worked as both a DevOps engineer and Applications Developer through internships and am currently seeking new full time opportunites to finally apply averything I have learned.",
     "contactmessage":"Please feel free to reach out to me by email, call, or text.",
     "email": "farooq.muhammad41@yahoo.com",
     "phone": "6474475934",
@@ -24,7 +24,7 @@
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/ahmermuhammadfarooq/",
         "className":"fa fa-linkedin"
       },
       {
@@ -49,10 +49,11 @@
         "title":"DevOps Intern",
         "years":"September 2018 - August 2019",
         "description": [
-          "Improved Developer/QA self sufficiency through development of web app (Ruby, Java, Angular) to provide team with access to automation for day-to-day functions",
-          "Increased Developer/QA productivity through development of DevOps Slack Bot (Nodejs) by building a CLI for automation of various tasks",
-          "Reduced failures and increased visibility in TeamCity CI pipeline through implementation of logging solution using the ELK stack",
-          "Maintained uptime of QA environments through creation, monitoring, and maintenance of web, database, and service servers using Chef and Sensu"
+          "Centralized access to automation and team resources through development of resource management system using Ruby, Java, and MySQL",
+          "Automated common administrative tasks through the JIRA and Confluence API’s using a Nodejs based Slack Bot built on Docker",
+          "Administered standard DevOps tools such TeamCity, Sensu, Chef, and the ELK stack to build robust CI/CD pipelines",
+          "Monitored and maintained 300+ Windows Server 2008/2016 and OEL 7 virtual machines through OVMM and MS Hyper-V",
+          "Increased visibility in TeamCity build failures through creation of ELK pipelines through leveraging the TeamCity API"
         ]
       },
       {
