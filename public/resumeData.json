@@ -1,53 +1,53 @@
 {
   "main": {
-    "name":"Ahmer Muhammad Farooq",
-    "occupation":"",
-    "description":"Fresh out of university with a a quality blend of academic achievement, industry experience, and side projects. Seeking out challenging, exciting, and impactful roles in the software industry where I can fully apply my abilities. ",
-    "image":"profilepic.jpg",
-    "bio":"I am a recent graduate with a degree in Computer Science at the University of Toronto. Most recently, I have worked as both a DevOps engineer and Applications Developer through internships and am currently seeking new full time opportunites to finally apply averything I have learned.",
-    "contactmessage":"Please feel free to reach out to me by email, call, or text.",
+    "name": "Ahmer Muhammad Farooq",
+    "occupation": "Software Engineer",
+    "description": "Fresh out of university with a a quality blend of academic achievement, industry experience, and side projects. Seeking out challenging, exciting, and impactful roles in the software industry where I can fully apply my abilities",
+    "image": "profilepic.jpg",
+    "bio": "I am a recent graduate with a degree in Computer Science at the University of Toronto. Most recently, I have worked as both a DevOps engineer and Applications Developer through internships and am currently seeking new full time opportunites to finally apply averything I have learned.",
+    "contactmessage": "Please feel free to reach out to me by email, call, or text.",
     "email": "farooq.muhammad41@yahoo.com",
     "phone": "6474475934",
-    "address":{
-      "street":"32 Myrna Lane",
-      "city":"Toronto",
-      "state":"Ontario",
+    "address": {
+      "street": "32 Myrna Lane",
+      "city": "Toronto",
+      "state": "Ontario",
       "zip": "M1V3N7"
     },
-    "website": "TBD",
-    "resumedownload":"TBD",
-    "social":[
+    "website": "https://muhammad-farooq-resume.herokuapp.com/",
+    "resumedownload": "TBD",
+    "social": [
       {
-        "name":"facebook",
-        "url":"https://www.facebook.com/profile.php?id=608380315",
-        "className":"fa fa-facebook"
+        "name": "facebook",
+        "url": "https://www.facebook.com/profile.php?id=608380315",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"linkedin",
-        "url":"https://www.linkedin.com/in/ahmermuhammadfarooq/",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/ahmermuhammadfarooq/",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"github",
-        "url":"https://github.com/MuhammadFarooq1234",
-        "className":"fa fa-github"
+        "name": "github",
+        "url": "https://github.com/MuhammadFarooq1234",
+        "className": "fa fa-github"
       }
     ]
   },
-  "resume":{
-    "skillmessage":"I am proud to say I have built a plethora of skills throughout my internships, my education and through my own personal learning,",
-    "education":[
+  "resume": {
+    "skillmessage": "I am proud to say I have built a plethora of skills throughout my internships, my education and through my own personal learning,",
+    "education": [
       {
-        "school":"University of Toronto",
-        "degree":"Honours Bachelor of Computer Science",
-        "graduated":"August 2020"
+        "school": "University of Toronto",
+        "degree": "Honours Bachelor of Computer Science",
+        "graduated": "August 2020"
       }
     ],
-    "work":[
+    "work": [
       {
-        "company":"Oracle Corporation",
-        "title":"DevOps Intern",
-        "years":"September 2018 - August 2019",
+        "company": "Oracle Corporation",
+        "title": "DevOps Intern",
+        "years": "September 2018 - August 2019",
         "description": [
           "Centralized access to automation and team resources through development of resource management system using Ruby, Java, and MySQL",
           "Automated common administrative tasks through the JIRA and Confluence API’s using a Nodejs based Slack Bot built on Docker",
@@ -57,97 +57,98 @@
         ]
       },
       {
-        "company":"Workplace Safety and Insurance Board",
-        "title":"Applications Development and Services",
-        "years":"January 2018 - April 2018",
+        "company": "Workplace Safety and Insurance Board",
+        "title": "Applications Development and Services",
+        "years": "January 2018 - April 2018",
         "description": [
           "Designed a full Proof-of-Concept for integrating the SonarQube tool for code quality analysis into existing deployment pipeline",
           "Developed a Java Application which automated the creation of dashboards illustrating the code quality of the engineering team",
           "Presented key code quality metrics to directors and managers, convincing the team to invest in a code analysis tool"
         ]
-    }],
-    "skills":[
+      }
+    ],
+    "skills": [
       {
-        "name":"JavaScript",
-        "level":"70%"
+        "name": "JavaScript",
+        "level": "70%"
       },
       {
-        "name":"ReactJS",
-        "level":"50%"
+        "name": "ReactJS",
+        "level": "50%"
       },
       {
-        "name":"NodeJS",
-        "level":"60%"
+        "name": "NodeJS",
+        "level": "60%"
       },
       {
-        "name":"HTML5",
-        "level":"60%"
+        "name": "HTML5",
+        "level": "60%"
       },
       {
-        "name":"CSS",
-        "level":"60%"
+        "name": "CSS",
+        "level": "60%"
       },
       {
-        "name":"Python",
-        "level":"60%"
+        "name": "Python",
+        "level": "60%"
       },
       {
-        "name":"Java",
-        "level":"50%"
+        "name": "Java",
+        "level": "50%"
       },
       {
-        "name":"Ruby",
-        "level":"50%"
+        "name": "Ruby",
+        "level": "50%"
       },
       {
-        "name":"MongoDB",
-        "level":"40%"
+        "name": "MongoDB",
+        "level": "40%"
       },
       {
-        "name":"MySQL",
-        "level":"40%"
+        "name": "MySQL",
+        "level": "40%"
       },
       {
-        "name":"Redis",
-        "level":"30%"
+        "name": "Redis",
+        "level": "30%"
       },
       {
-        "name":"Docker",
-        "level":"50%"
+        "name": "Docker",
+        "level": "50%"
       },
       {
-        "name":"Nginx",
-        "level":"30%"
+        "name": "Nginx",
+        "level": "30%"
       },
       {
-        "name":"Elastic Search",
-        "level":"40%"
+        "name": "Elastic Search",
+        "level": "40%"
       },
       {
-        "name":"Kibana",
-        "level":"40%"
+        "name": "Kibana",
+        "level": "40%"
       },
       {
-        "name":"TeamCity",
-        "level":"60%"
+        "name": "TeamCity",
+        "level": "60%"
       },
       {
-        "name":"Sensu",
-        "level":"40%"
+        "name": "Sensu",
+        "level": "40%"
       },
       {
-        "name":"Chef",
-        "level":"20%"
+        "name": "Chef",
+        "level": "20%"
       }
     ]
   },
-  "portfolio":{
+  "portfolio": {
     "projects": [
       {
-        "title":"TweetShow",
-        "category":"An in-depth twitter sentiment, emotion, and difficulty analysis tool",
-        "image":"tweetshow.jpg",
-        "url":"https://tweetshow.me",
+        "title": "TweetShow",
+        "category": "An in-depth twitter sentiment, emotion, and difficulty analysis tool",
+        "image": "tweetshow.jpg",
+        "url": "https://tweetshow.me",
         "techstack": [
           "ReactJS",
           "NodeJS",
@@ -159,37 +160,30 @@
         ]
       },
       {
-        "title":"PlanitApp",
-        "category":"An app created for my Software Engineering course, not my original idea. Allows users to plan trips using their location, budget, and personal preferances.",
-        "image":"planit.png",
-        "url":"https://github.com/MuhammadFarooq1234/planit-app",
-        "techstack": [
-          "React Native",
-          "NodeJS",
-          "Firebase",
-          "Yelp API"
-        ]
+        "title": "PlanitApp",
+        "category": "An app created for my Software Engineering course, not my original idea. Allows users to plan trips using their location, budget, and personal preferances.",
+        "image": "planit.png",
+        "url": "https://github.com/MuhammadFarooq1234/planit-app",
+        "techstack": ["React Native", "NodeJS", "Firebase", "Yelp API"]
       },
       {
-        "title":"Simple Cricket Score Tracker",
-        "category":"Built and deployed a mobile application on the Google Play Store which allows users to keep track of cricket scores including runs, wickets, overs, No Balls, Wide Balls, etc.",
-        "image":"SCST.png",
-        "url":"https://play.google.com/store/apps/details?id=com.farooqmuhammad.simplecricketscoretracker&fbclid=IwAR1MMXZX3kaNGUCkjphQn9Re9BCEulvSfcgBVuAmzg5YHKA8VeJyl1-reno",
-        "techstack": [
-          "React Native"
-        ]
+        "title": "Simple Cricket Score Tracker",
+        "category": "Built and deployed a mobile application on the Google Play Store which allows users to keep track of cricket scores including runs, wickets, overs, No Balls, Wide Balls, etc.",
+        "image": "SCST.png",
+        "url": "https://play.google.com/store/apps/details?id=com.farooqmuhammad.simplecricketscoretracker&fbclid=IwAR1MMXZX3kaNGUCkjphQn9Re9BCEulvSfcgBVuAmzg5YHKA8VeJyl1-reno",
+        "techstack": ["React Native"]
       }
     ]
   },
-  "testimonials":{
-    "testimonials":[
+  "testimonials": {
+    "testimonials": [
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
       }
     ]
   }
