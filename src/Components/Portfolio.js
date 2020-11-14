@@ -21,8 +21,8 @@ class Portfolio extends Component {
               <div className="link-icon"><i className="fa fa-link"></i></div>
             </a>
           </div>
-          <h4>Technologies Used:</h4>
-          <ul>{listOfTech}</ul>
+          {/* <h4>Technologies Used:</h4>
+          <ul>{listOfTech}</ul> */}
         </div>
       })
     }

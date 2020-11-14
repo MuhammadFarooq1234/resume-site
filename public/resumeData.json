@@ -145,6 +145,20 @@
   "portfolio": {
     "projects": [
       {
+        "title": "Product Specific Age Verifier",
+        "category": "A Shopify App for age restricting specific apps",
+        "image": "psav.jpg",
+        "url": "https://apps.shopify.com/test-app-489?surface_detail=product+specific+age+verifier&surface_inter_position=1&surface_intra_position=4&surface_type=search",
+        "techstack": [
+          "ReactJS",
+          "NodeJS",
+          "Redis",
+          "Shopify Polaris",
+          "Shopify API",
+          "GraphQL"
+        ]
+      },
+      {
         "title": "TweetShow",
         "category": "An in-depth twitter sentiment, emotion, and difficulty analysis tool",
         "image": "tweetshow.jpg",
